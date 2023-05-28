@@ -26,4 +26,5 @@
 - git log
 
 - git commit -m "Mensagem"
+- git pull --rebase
 - git push -u origin main
