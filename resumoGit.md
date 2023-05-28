@@ -27,4 +27,8 @@
 
 - git commit -m "Mensagem"
 - git pull --rebase
+  ou
+- git feth // Não altera o código de imediato
+- git diff origin/main  // visualiza as alterações e depois git pull
+  
 - git push -u origin main
