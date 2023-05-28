@@ -32,3 +32,9 @@
 - git diff origin/main  // visualiza as alterações e depois git pull
   
 - git push -u origin main
+
+### 4. Branch
+São ramificações do git
+- git branch testing  // Criando branch
+- git log --oneline --decorate // indica em qual branch HEAD esta apontando
+
