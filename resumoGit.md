@@ -38,7 +38,4 @@ São ramificações do git
 - git branch testing  // Criando branch
 - git log --oneline --decorate // indica em qual branch HEAD esta apontando
 - git checkout testing // muda de branch 
-para mesclar os arquivo, esteja na branch que deseja add os arquivos de outra braanch
-- git checkout main
-- git merge testing
-
+- git  
